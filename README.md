@@ -1,3 +1,7 @@
+#  Templates have been moved to https://github.com/redhat-appstudio/tssc-sample-templates
+
+# do not use this repository
+
 #  Dance Sample Backstage Templates
 
 
